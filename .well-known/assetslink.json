@@ -3,9 +3,9 @@
      "relation": ["delegate_permission/common.handle_all_urls"],
      "target": {
        "namespace": "android_app",
-       "package_name": "com.topicwise",
+       "package_name": "com.question2",
        "sha256_cert_fingerprints": [
-         "AB:CD:EF:12:34:56:...:90"
+         "B3:3D:B4:31:7E:F0:CC:16:2A:8E:42:9F:09:53:CA:17:A9:4A:35:27:2F:9E:DE:18:A6:DE:B7:93:9E:AB:1B:CC"
        ]
      }
    }
